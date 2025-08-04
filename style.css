@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url(https://tse3.mm.bing.net/th/id/OIP.3AdKgXie0dbRUviEZ-MsOQHaE8?pid=Api&P=0&h=180); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background-color: rgba(255, 230, 0, 0.9); 
+  padding: 20px 10px;
+  color: #000;
+}
+
+header h1 {
+  margin-bottom: 5px;
+}
+
+main .content {
+  padding: 40px 20px;
+  background-color: rgba(255, 255, 255, 0.8); 
+  margin: 20px auto;
+  max-width: 800px;
+  border-radius: 8px;
+}
+
+.logo {
+  width: 150px;
+  margin-bottom: 20px;
+}
+
+button#visit-btn {
+  padding: 10px 20px;
+  background-color: #28b728;
+  color: #fff;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+button#visit-btn:hover {
+  background-color: #219b21;
+}
+
+footer {
+  background-color: rgba(241, 241, 241, 0.9); 
+  padding: 15px 10px;
+  font-size: 14px;
+  margin-top: 40px;
+}
